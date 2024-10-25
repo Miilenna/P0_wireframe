@@ -1,6 +1,7 @@
 # P0_wireframe
 
 # DAM
+<<<<<<< HEAD
 ## Pàgina d'Inici:     
 A la part superior té 4 botons, INICI, CATÀLEG, BLOG I NOTÍCIES, CISTELLA i USUARI.
 El botó d'Inici et torna a la pàgina principal, el botó de Catàleg et porta a la pàgina amb el catàleg, el de Blog i Notícies et porta al 
@@ -45,4 +46,4 @@ La pagina ded Blog i Noticies conte articles destacats amb una imatge, el titol 
 ![Image 10](imgproj/p61.jpg)            
 ## Noticia:                    
 La Noticia conte Titol, data de publicacioi el cos amb una imatge. Despres hi ha una caixa de comentaris
-![Image 11](imgproj/p62.jpg)       
+![Image 11](imgproj/p62.jpg)

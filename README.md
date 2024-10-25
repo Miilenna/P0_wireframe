@@ -10,7 +10,7 @@ A la part inferior hi ha el contacte, un botó que et mostra la política i les 
 ![Image 1](imgproj/p1.jpg)   
 ## Catàleg dels productes:  
 A la part central hi ha els filtres i una llista de productes mab imatge, nom, preu i una petita descripcio. Sota de cada producte hi ha un boto 
-que et porta a una pagina amb  mes detall del producte i un boto per afegir a la cistalla. Els filtes son de preu, marca i tipus de guitarra.           
+que et porta a una pagina amb  mes detall del producte i un boto per afegir a la cistalla. Els filtes son de preu, marca i tipus de guitarra. Fent clic en porta a una pantalla amb mes detall del producte.      
 ![Image 2](imgproj/p2.jpg)   
 ## Detalls del producte:    
 A sota de la barra superior hi ha un boto per afegir producte si has iniciat sessio com a administrador, sino no apareix. Sota 

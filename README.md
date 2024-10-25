@@ -21,3 +21,5 @@ añadir reseteo de contraseña!!!
 ## Blog i Notícies
 ![alt text](img/detall_l'article.jpg)
 ![alt text](img/llista_d'articles.jpg)
+
+# DAM

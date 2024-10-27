@@ -1,7 +1,6 @@
 # P0_wireframe
 
 # DAM
-<<<<<<< HEAD
 ## Pàgina d'Inici:     
 A la part superior té 4 botons, INICI, CATÀLEG, BLOG I NOTÍCIES, CISTELLA i USUARI.
 El botó d'Inici et torna a la pàgina principal, el botó de Catàleg et porta a la pàgina amb el catàleg, el de Blog i Notícies et porta al 

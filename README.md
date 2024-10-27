@@ -38,7 +38,6 @@ tener un botón para añadir ese producto al carrito.
 Arriba a la derecha hay un botón que sirve para añadir más productos, a ese botón solo tendrá acceso la empresa,
 si algún cliente intenta usar ese botón no le dejará administrar los productes ya que estará deshabilitado.
 
-
 ## Creación del producto
 Cuando el administrador entre a esta página le saldrán inputs donde podrá añadir el nombre del nuevo producto,
 su precio, cuántas unidades disponibles hay, su descripción, la marca, el tipo, las especificaciones y por último

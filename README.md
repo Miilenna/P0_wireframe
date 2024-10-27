@@ -58,7 +58,7 @@ En este apartado tenemos el proceso del pago. Primero el cliente debe elegir el 
 Después pasamos a la forma de envios, aquí el cliente tiene que introducir su nombre, teléfono y dirección para después confirmar
 y pasar al último paso donde está el resumen de la compra, que incluye el nombre, teléfono, dirección, número de la tarjeta y por
 último el precio final. Al acabar el proceso de pago se tiene que confirmar todo.
-![Checkout](./imgDAW/cistella.jpg)               
+![Checkout](./imgDAW/checkout.jpg)               
 
 ## Login
 Esta página és para acceder a tu cuenta. Donde para poder acceder tendrás que añadir tu correo y contraseña. Pero si no tienes

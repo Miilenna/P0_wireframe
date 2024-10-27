@@ -137,7 +137,7 @@ En el formulario, encontrarás un botón para enviar la solicitud de recuperaci�
          
 ## Blog y Noticias:
 La página de Blog y Noticias presenta una selección de artículos destacados, cada uno acompañado de una imagen llamativa, un título conciso y una breve sinopsis que resume el contenido principal. Al hacer clic en un artículo en particular, serás redirigido a la página completa de la noticia, donde podrás leer el contenido en su totalidad.   
-  !Blog y Noticias](./imgDAM/pBlogINoticies.jpg)             
+  ![Blog y Noticias](./imgDAM/pBlogINoticies.jpg)             
        
 ## Noticia:                    
 La noticia contiene el título, la fecha de publicación, el cuerpo del texto (que suele incluir una imagen) y una sección de comentarios.
